@@ -1,11 +1,7 @@
 <?php
 
 class Calculator {
-
-    //private $_op = 0; $_firstNumber, $_secondNumber;
-    public $op = "0";
-    public $firstNumber = 0;
-    public $secondNumber = 0;
+    
     public function __call($name_of_function, $arguments) {
               
         if($name_of_function == 'calc') {
