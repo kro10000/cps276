@@ -1,32 +1,5 @@
 <?php
 
-// class Calculator {
-//     private $_firstNumber = 0;
-//     private $_secondNumber = 0;
-//     private $_operator = 0;
-//     public function __construct($firstNumber, $lastNumber, $operator){
-    
-//     }
-
-//     public function calc($operator, $firstNumber, $secondNumber){
-
-
-//     }
-//     public function Addition() {
-//         return $this->firstNumber + $this->secondNumber;        
-//     }
-//     public function Subtraction() {
-//         return $this->firstNumber - $this->secondNumber;
-//     }
-//     public function Multiplication() {
-//         return $this->firstNumber * $this->secondNumber;
-//     }
-//     public function Division() {
-//         return $this->firstNumber / $this->secondNumber;
-//     }
-
-// }
-
 class Calculator {
 
     //private $_op = 0; $_firstNumber, $_secondNumber;
