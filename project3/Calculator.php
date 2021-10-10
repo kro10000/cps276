@@ -30,9 +30,7 @@ class Calculator {
                             } else {
                                 return "The division of the numbers is " . ($arguments[1]/$arguments[2]) . "<br>\n";
                             }
-
-                    }
-                
+                    }   
             }
         }
     }
